@@ -2,7 +2,7 @@
 
 ## 領取作業
 
-1. 前往 <https://classroom.github.com/a/GR_mkbOa> 接受作業邀請 (需登入 GitHub, **已確定要修課者**，請**配對姓名**)
+1. 前往 <https://classroom.github.com/a/FQCdLr46> 接受作業邀請 (需登入 GitHub, **已確定要修課者**，請**配對姓名**)
 1. 接受作業後，前往個人作業 repo (位於 `https://github.com/rlads2019/hw1-<你的 GitHub 帳號>`, e.g. `https://github.com/rlads2019/hw1-liao961120`)
 1. 使用 GitHub Desktop (或 git command line) 將 `https://github.com/rlads2019/hw1-<你的 GitHub 帳號>.git` clone 到自己電腦上
 
