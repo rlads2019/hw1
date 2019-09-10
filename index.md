@@ -21,7 +21,7 @@ HW1: 自我介紹
 ### 資源
 
 - 你可以使用 [Markdown 線上編輯器](https://jbt.github.io/markdown-editor)預覽排版好的 Markdown (i.e. 輸出成 HTML 的樣子)
-- Markdown [語法](https://markdown.tw)、[cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- Markdown [語法](https://guides.github.com/features/mastering-markdown)、[cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 - - -
 
